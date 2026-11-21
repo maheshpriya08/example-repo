@@ -1,54 +1,56 @@
 # 🚀 Mahesh Priya — App Portfolio
 
-Welcome! This repository is the central directory for applications and digital projects created by **Mahesh Priya**.
+Welcome! This is the central directory for applications and digital projects built by **Mahesh Priya**.
 
-I build practical applications across education, AI, productivity, finance, and technology. This page brings together project repositories and live demos in one place.
+I create practical projects across education, AI, productivity, finance, and web technology. Browse the source repositories or open the deployed applications below.
 
-> **Note:** A repository contains the source code; a live demo is the deployed application. Some projects may be private or still under development. Live links are added only when verified.
+> **Access note:** Vercel reports SSO protection enabled for the projects listed below. If a link asks you to sign in, its deployment access settings may need to be changed before it can be shared publicly. Check the access settings before distributing links.
+
+---
+
+## 🌐 Live applications
+
+| Application | Category | Live demo | Source code |
+|---|---|---|---|
+| Goal Meter | Productivity | [Open app](https://goal-meter.vercel.app) | [GitHub](https://github.com/maheshpriya08/goal-meter) |
+| Trading Journal | Finance | [Open app](https://trading-journal-self-delta.vercel.app) | [GitHub](https://github.com/maheshpriya08/trading-journal) |
+| My Voice Web | AI / Voice | [Open app](https://myvoice-web-mahi21.vercel.app) | [GitHub](https://github.com/maheshpriya08/myvoice_web) |
+| Finzora Studio | Finance / Creative | [Open app](https://finzora-studio-r2ph.vercel.app) | [GitHub](https://github.com/maheshpriya08/finzora-studio) |
+| Tuition Fees Tracker | Education | [Open app](https://fees-tracker-beryl.vercel.app) | [GitHub](https://github.com/maheshpriya08/Eduskills-Academy) |
+| WH Questions Quiz | Education | [Open app](https://quiz-one-rho-99.vercel.app) | — |
+| English Grammar Quiz | Education | [Open app](https://english-grammar-quiz1.vercel.app) | [GitHub](https://github.com/maheshpriya08/English-modal) |
+| Real-Life Maths Questions | Education | [Open app](https://eduskillsacademy180reallifemathsque.vercel.app) | [GitHub](https://github.com/maheshpriya08/Eduskills-Academy) |
+| Personal Portfolio | Portfolio | [Open app](https://maheshpriyapersonalportfolio.vercel.app) | — |
 
 ---
 
 ## 🎓 Education & Learning
 
-| Project | What it does | Source code |
-|---|---|---|
-| EduSkills Academy | Education and learning project | [Repository](https://github.com/maheshpriya08/Eduskills-Academy) |
-| Mahi's Spoken English | Spoken English learning project | [Repository](https://github.com/maheshpriya08/Mahi-s-spoken-english) |
-| English Modal | English learning resource | [Repository](https://github.com/maheshpriya08/English-modal) |
+| Project | Source code |
+|---|---|
+| EduSkills Academy | [Repository](https://github.com/maheshpriya08/Eduskills-Academy) |
+| Mahi's Spoken English | [Repository](https://github.com/maheshpriya08/Mahi-s-spoken-english) |
+| English Modal | [Repository](https://github.com/maheshpriya08/English-modal) |
 
 ## 🤖 AI & Creative Technology
 
-| Project | What it does | Source code |
-|---|---|---|
-| My Voice Web | Voice application project | [Repository](https://github.com/maheshpriya08/myvoice_web) |
-| Finzora Studio | Financial content / creative project | [Repository](https://github.com/maheshpriya08/finzora-studio) |
+| Project | Source code |
+|---|---|
+| My Voice Web | [Repository](https://github.com/maheshpriya08/myvoice_web) |
+| Finzora Studio | [Repository](https://github.com/maheshpriya08/finzora-studio) |
 
 ## 📊 Productivity & Finance
 
-| Project | What it does | Source code |
-|---|---|---|
-| Goal Meter | Personal goal tracking application | [Repository](https://github.com/maheshpriya08/goal-meter) |
-| Trading Journal | Trading journal and record keeping | [Repository](https://github.com/maheshpriya08/trading-journal) |
-
----
-
-## 🌐 Live demos
-
-Live deployment URLs will be listed here after they are confirmed.
-
-| Application | Live demo |
+| Project | Source code |
 |---|---|
-| Goal Meter | Add deployment URL |
-| Trading Journal | Add deployment URL |
-| My Voice Web | Add deployment URL |
-| EduSkills Academy | Add deployment URL |
-| Finzora Studio | Add deployment URL |
+| Goal Meter | [Repository](https://github.com/maheshpriya08/goal-meter) |
+| Trading Journal | [Repository](https://github.com/maheshpriya08/trading-journal) |
 
 ---
 
 ## 🧰 Technologies
 
-Projects across my portfolio may use Python, Streamlit, HTML, CSS, JavaScript, Vercel, Supabase, Google Apps Script, and AI tools.
+Python · Streamlit · HTML · CSS · JavaScript · Vercel · Supabase · Google Apps Script · AI tools
 
 ## 📬 Connect
 
@@ -56,4 +58,4 @@ Projects across my portfolio may use Python, Streamlit, HTML, CSS, JavaScript, V
 
 ---
 
-⭐ Thank you for exploring my projects. This portfolio is continuously updated as I build and launch new applications.
+⭐ This portfolio is updated as new projects are built and launched.
