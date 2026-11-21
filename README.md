@@ -4,7 +4,7 @@ Welcome! This is the central directory for applications and digital projects bui
 
 I create practical projects across education, AI, productivity, finance, and web technology. Browse the source repositories or open the deployed applications below.
 
-> **Access note:** Vercel reports SSO protection enabled for the projects listed below. If a link asks you to sign in, its deployment access settings may need to be changed before it can be shared publicly. Check the access settings before distributing links.
+> **Access note:** Some Vercel deployments have SSO protection enabled. If a link asks you to sign in, review that project's Vercel deployment protection settings before sharing it publicly.
 
 ---
 
@@ -19,7 +19,9 @@ I create practical projects across education, AI, productivity, finance, and web
 | Tuition Fees Tracker | Education | [Open app](https://fees-tracker-beryl.vercel.app) | [GitHub](https://github.com/maheshpriya08/Eduskills-Academy) |
 | WH Questions Quiz | Education | [Open app](https://quiz-one-rho-99.vercel.app) | — |
 | English Grammar Quiz | Education | [Open app](https://english-grammar-quiz1.vercel.app) | [GitHub](https://github.com/maheshpriya08/English-modal) |
+| EduSkills English Grammar Quiz | Education | [Open app](https://eduskills-english-grammar-quiz1.vercel.app) | — |
 | Real-Life Maths Questions | Education | [Open app](https://eduskillsacademy180reallifemathsque.vercel.app) | [GitHub](https://github.com/maheshpriya08/Eduskills-Academy) |
+| Modal1 | Web application | [Open app](https://modal1-lake.vercel.app) | — |
 | Personal Portfolio | Portfolio | [Open app](https://maheshpriyapersonalportfolio.vercel.app) | — |
 
 ---
@@ -45,6 +47,12 @@ I create practical projects across education, AI, productivity, finance, and web
 |---|---|
 | Goal Meter | [Repository](https://github.com/maheshpriya08/goal-meter) |
 | Trading Journal | [Repository](https://github.com/maheshpriya08/trading-journal) |
+
+## 🧪 Other Vercel deployments
+
+The following deployment was visible in Vercel but appears to be a temporary or experimental project, so it is not included in the main app list:
+
+- `snappy-platinum-yqu3yh6` — [Vercel deployment](https://temporary-snappy-platinum-yqu3yh6-anon-mu-topaz.vercel.app)
 
 ---
 
